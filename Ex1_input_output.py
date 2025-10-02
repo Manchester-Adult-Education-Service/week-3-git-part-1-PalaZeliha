@@ -19,6 +19,13 @@
 # age = int(input("How old are you? "))
 # print(f"Hello {name}, next year you will be {age + 1}!")
 
+name = input("What is your name? ")
+age = int(input("How old are you? "))
+print(f"Hello {name}, next year you will be {age + 1}!")
+food = input(f" Hello {name} what is your favourite food?")
+print(f"{name}'s favorite food is {food}! {name} will be {age} years old next year!")
+
+
 # ---------------------------
 # Step 2: Git Task
 # ---------------------------
